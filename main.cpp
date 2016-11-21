@@ -1,3 +1,7 @@
+/*
+Author: Benjamin Ellsworth
+*/
+
 #include "board.h"
 #include "tile.h"
 #include "deck.h"
